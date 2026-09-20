@@ -6,7 +6,7 @@ If an item is not on this list, it is not required. Do not add items because the
 
 ## Before you open a pull request
 
-- The change solves the stated problem — not a neighbouring problem that was more interesting.
+- The change solves the stated problem - not a neighbouring problem that was more interesting.
 - You can explain the change in two or three sentences. If you can't, the work is probably too big to review.
 - Existing automated tests pass locally, or you have a documented reason they don't.
 - You have scanned the diff for secrets, tokens, and real customer data.

@@ -12,7 +12,7 @@ Score each line yes/no. Three or more "no"s means you do not need a new tool. Yo
 - [ ] A new person could ship a small change in week one without a two-day download from the lead.
 - [ ] Work in progress is visible, not trapped in private branches and DMs.
 - [ ] The tech lead is **not** the default reviewer / releaser / firefighter.
-- [ ] We have killed or simplified a rule in the last quarter — or looked and nothing deserved to die.
+- [ ] We have killed or simplified a rule in the last quarter - or looked and nothing deserved to die.
 - [ ] When production misbehaves, there is a default path that isn't "message the lead and hope".
 
 ## If you are new to the role
