@@ -23,4 +23,4 @@ Days 31–60: install a Definition of Done, a GitHub PR template, and CI. Measur
 
 Days 61–90: automate one painful thing. Kill one useless thing. Someone other than you should have released.
 
-Interactive version: [tech lead readiness checklist](https://groundwork-one-tau.vercel.app/tools/tech-lead-readiness). The 30/60/90 and ownership model are in the [Starter Kit](https://groundwork-one-tau.vercel.app/starter-kit).
+Interactive version: [tech lead readiness checklist](https://getgroundwork.dev/tools/tech-lead-readiness). The 30/60/90 and ownership model are in the [Starter Kit](https://getgroundwork.dev/starter-kit).

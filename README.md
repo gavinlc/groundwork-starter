@@ -25,10 +25,10 @@ If you cannot delete a line, it is too generic.
 
 These files are a starting point. They will be wrong in places.
 
-- [Definition of Done generator](https://groundwork-one-tau.vercel.app/tools/definition-of-done) — free
-- [Tech lead readiness checklist](https://groundwork-one-tau.vercel.app/tools/tech-lead-readiness) — free
-- [Engineering process health check](https://groundwork-one-tau.vercel.app/tools/health-check) — free
-- [Tech Lead Starter Kit](https://groundwork-one-tau.vercel.app/starter-kit) — **£79**. A playbook, ownership model, 30/60/90, and a GitHub pack fitted to how you actually ship.
+- [Definition of Done generator](https://getgroundwork.dev/tools/definition-of-done) — free
+- [Tech lead readiness checklist](https://getgroundwork.dev/tools/tech-lead-readiness) — free
+- [Engineering process health check](https://getgroundwork.dev/tools/health-check) — free
+- [Tech Lead Starter Kit](https://getgroundwork.dev/starter-kit) — **£79**. A playbook, ownership model, 30/60/90, and a GitHub pack fitted to how you actually ship.
 
 ## Rule
 

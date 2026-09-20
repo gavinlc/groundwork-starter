@@ -19,4 +19,4 @@ A software team release checklist. A release should be boring. If it is a person
 
 Anyone who can follow this checklist. If only one person can release, that is a bus-factor incident you are scheduling in advance.
 
-Want this fitted to your deploy setup (Vercel, AWS, ad hoc, weekly train)? That's in the [Starter Kit](https://groundwork-one-tau.vercel.app/starter-kit).
+Want this fitted to your deploy setup (Vercel, AWS, ad hoc, weekly train)? That's in the [Starter Kit](https://getgroundwork.dev/starter-kit).

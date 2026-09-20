@@ -34,4 +34,4 @@ If an item is not on this list, it is not required. Do not add items because the
 - If an item has been ticked for a month and has never caught anything, propose removing it.
 - Anyone can propose a change in a pull request.
 
-Need this fitted to your team (stack, review rules, release cadence)? Use the [free definition of done generator](https://groundwork-one-tau.vercel.app/tools/definition-of-done).
+Need this fitted to your team (stack, review rules, release cadence)? Use the [free definition of done generator](https://getgroundwork.dev/tools/definition-of-done).
