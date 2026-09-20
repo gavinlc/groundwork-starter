@@ -1,27 +1,23 @@
-# Groundwork starter templates
+# Definition of Done template, GitHub PR template, and new tech lead checklist
 
-Lightweight GitHub defaults for a 3–15 person engineering team.
-
-Copy what you need. Delete the rest. Do not add a process because it looks professional.
-
-**Promise:** ship more consistently without adding engineering bureaucracy.
+A **definition of done template**, **GitHub PR template**, and **new tech lead checklist** for small software teams (about 3–15 people). Copy them into the repo. Strike anything that is not true. Do not add process because it looks professional.
 
 ## What's in here
 
 | File | What it is |
 | --- | --- |
-| [`docs/definition-of-done.md`](docs/definition-of-done.md) | The merge contract. Short on purpose. |
-| [`.github/pull_request_template.md`](.github/pull_request_template.md) | Puts that contract in the review, not a wiki. |
-| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Bug and work templates. |
+| [`docs/definition-of-done-template.md`](docs/definition-of-done-template.md) | Engineering definition of done template. The merge contract. Short on purpose. |
+| [`docs/github-pr-template.md`](docs/github-pr-template.md) | GitHub PR template. Also installed at `.github/pull_request_template.md` so GitHub picks it up. |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | GitHub issue templates for bugs and work. |
 | [`.github/workflows/ci.yml`](.github/workflows/ci.yml) | CI that only runs scripts you actually have. |
-| [`docs/release-checklist.md`](docs/release-checklist.md) | Make releases boring. |
-| [`docs/tech-lead-checklist.md`](docs/tech-lead-checklist.md) | For the first-time lead. |
+| [`docs/software-team-release-checklist.md`](docs/software-team-release-checklist.md) | Software team release checklist. Make releases boring. |
+| [`docs/new-tech-lead-checklist.md`](docs/new-tech-lead-checklist.md) | New tech lead checklist for the first 90 days. |
 
 ## Use it
 
 1. Copy the files into your repository.
 2. Strike anything that is not true for you.
-3. Keep the Definition of Done in the pull request template so it lives in the merge path.
+3. Keep the definition of done template in the GitHub PR template so it lives in the merge path, not a wiki.
 
 If you cannot delete a line, it is too generic.
 

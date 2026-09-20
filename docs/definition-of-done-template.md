@@ -1,6 +1,6 @@
-# Definition of Done
+# Engineering definition of done template
 
-This is the merge contract. It is intentionally short.
+This is a definition of done template for a software team. It is the merge contract. It is intentionally short.
 
 If an item is not on this list, it is not required. Do not add items because they sound professional. Add them because skipping them has hurt you.
 
@@ -34,4 +34,4 @@ If an item is not on this list, it is not required. Do not add items because the
 - If an item has been ticked for a month and has never caught anything, propose removing it.
 - Anyone can propose a change in a pull request.
 
-Need this fitted to your team (stack, review rules, release cadence)? Use the [free generator](https://groundwork-one-tau.vercel.app/tools/definition-of-done).
+Need this fitted to your team (stack, review rules, release cadence)? Use the [free definition of done generator](https://groundwork-one-tau.vercel.app/tools/definition-of-done).

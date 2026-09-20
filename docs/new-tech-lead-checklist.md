@@ -1,6 +1,6 @@
-# Tech lead checklist
+# New tech lead checklist
 
-Not a personality test. Either the foundations exist or they don't.
+A new tech lead checklist for someone who just inherited a 3–15 person software team. Not a personality test. Either the foundations exist or they don't.
 
 Score each line yes/no. Three or more "no"s means you do not need a new tool. You need defaults.
 
@@ -19,8 +19,8 @@ Score each line yes/no. Three or more "no"s means you do not need a new tool. Yo
 
 Days 1–30: notice how work actually happens. Do not introduce five processes.
 
-Days 31–60: install a Definition of Done, a PR template, and CI. Measure.
+Days 31–60: install a Definition of Done, a GitHub PR template, and CI. Measure.
 
 Days 61–90: automate one painful thing. Kill one useless thing. Someone other than you should have released.
 
-Interactive version: [tech lead readiness](https://groundwork-one-tau.vercel.app/tools/tech-lead-readiness). The 30/60/90 and ownership model are in the [Starter Kit](https://groundwork-one-tau.vercel.app/starter-kit).
+Interactive version: [tech lead readiness checklist](https://groundwork-one-tau.vercel.app/tools/tech-lead-readiness). The 30/60/90 and ownership model are in the [Starter Kit](https://groundwork-one-tau.vercel.app/starter-kit).

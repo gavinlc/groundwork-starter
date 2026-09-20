@@ -1,6 +1,6 @@
-# Release checklist
+# Software team release checklist
 
-A release should be boring. If it is a personality test, the steps are wrong.
+A software team release checklist. A release should be boring. If it is a personality test, the steps are wrong.
 
 ## Before
 
